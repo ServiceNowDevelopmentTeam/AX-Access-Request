@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="AX Access DAT Role Approver">61e745631b19bd108c5143f3cc4bcb32</decision_table>
+        <label>approver: Andrea White</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-09-21 16:40:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7f6f6d671b99bd108c5143f3cc4bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approver: Andrea White</sys_name>
+        <sys_package display_value="AX Access Request" source="c53aae751bd1c1508c5143f3cc4bcb89">c53aae751bd1c1508c5143f3cc4bcb89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</sys_scope>
+        <sys_update_name>sys_decision_multi_result_7f6f6d671b99bd108c5143f3cc4bcbee</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-09-21 16:40:37</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=7f6f6d671b99bd108c5143f3cc4bcbee"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>7f6f6d671b99bd108c5143f3cc4bcbee</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-09-21 16:40:37</sys_created_on>
+        <sys_id>736f6d671b99bd108c5143f3cc4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-09-21 16:40:37</sys_updated_on>
+        <value>7070d5141b5a5c50e7004229bc4bcb92</value>
+        <variable display_value="approver">fa3a8da31b19bd108c5143f3cc4bcb41</variable>
+    </sys_variable_value>
+</record_update>

@@ -65,14 +65,14 @@
         <sys_created_by>bj.strohl</sys_created_by>
         <sys_created_on>2020-12-01 19:56:23</sys_created_on>
         <sys_id>4010858e1bbca410e7004229bc4bcb0a</sys_id>
-        <sys_mod_count>73</sys_mod_count>
+        <sys_mod_count>68</sys_mod_count>
         <sys_name>AX Access Request</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</sys_scope>
         <sys_update_name>sc_cat_item_4010858e1bbca410e7004229bc4bcb0a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-25 13:17:01</sys_updated_on>
+        <sys_updated_on>2024-07-17 16:11:12</sys_updated_on>
         <taxonomy_topic display_value="AX">e0a873cc1beaad508c5143f3cc4bcb1a</taxonomy_topic>
         <template/>
         <template_manager_roles/>
@@ -112,12 +112,40 @@
         <u_variables/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>20</version>
+        <version>15</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</claim_owner_scope>
+        <claim_timestamp>17e9d9091840000001</claim_timestamp>
+        <metadata_update_name>sc_cat_item_4010858e1bbca410e7004229bc4bcb0a</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>AX Access Request</previous_claim_name>
+        <previous_claim_scope>c53aae751bd1c1508c5143f3cc4bcb89</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-01-27 22:03:24</sys_created_on>
+        <sys_id>a23ca6791bd1c1508c5143f3cc4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-01-27 22:03:24</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</claim_owner_scope>
+        <claim_timestamp>17e30ec7fd70000001</claim_timestamp>
+        <metadata_update_name>sc_cat_item_4010858e1bbca410e7004229bc4bcb0a</metadata_update_name>
+        <previous_claim_app_version>1.0.1</previous_claim_app_version>
+        <previous_claim_name>Cascading Approvals</previous_claim_name>
+        <previous_claim_scope>22668e5c1b53b45062e50ed2cd4bcbf0</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-01-27 22:03:24</sys_created_on>
+        <sys_id>663ca6791bd1c1508c5143f3cc4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-01-27 22:03:24</sys_updated_on>
+    </sys_claim>
     <sys_translated_text action="delete_multiple" query="documentkey=4010858e1bbca410e7004229bc4bcb0a"/>
     <fx_price action="delete_multiple" query="id=4010858e1bbca410e7004229bc4bcb0a"/>
     <fx_price action="INSERT_OR_UPDATE">
