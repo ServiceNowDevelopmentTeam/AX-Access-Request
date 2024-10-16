@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="AX Access Request">4010858e1bbca410e7004229bc4bcb0a</catalog_item>
+        <catalog_variable>IO:232e96b21bbe34108c5143f3cc4bcb71</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-09-29 16:32:54</sys_created_on>
+        <sys_id>b5c1afc71b72f4108c5143f3cc4bcb97</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>container_env</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b5c1afc71b72f4108c5143f3cc4bcb97</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-01-27 22:06:18</sys_updated_on>
+        <table/>
+        <ui_policy display_value="request type = new access">c4f027871b72f4108c5143f3cc4bcb72</ui_policy>
+        <variable>container_env</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</claim_owner_scope>
+        <claim_timestamp>17e9d93388a0000001</claim_timestamp>
+        <metadata_update_name>catalog_ui_policy_action_b5c1afc71b72f4108c5143f3cc4bcb97</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>AX Access Request</previous_claim_name>
+        <previous_claim_scope>c53aae751bd1c1508c5143f3cc4bcb89</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-01-27 22:06:18</sys_created_on>
+        <sys_id>4decaeb91bd1c1508c5143f3cc4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-01-27 22:06:18</sys_updated_on>
+    </sys_claim>
+</record_update>

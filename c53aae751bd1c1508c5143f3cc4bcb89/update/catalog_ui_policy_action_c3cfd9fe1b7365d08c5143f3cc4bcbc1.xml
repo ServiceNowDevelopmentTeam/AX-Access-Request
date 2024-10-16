@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="AX Access Request">4010858e1bbca410e7004229bc4bcb0a</catalog_item>
+        <catalog_variable>IO:55ce51be1b7365d08c5143f3cc4bcba2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 18:02:48</sys_created_on>
+        <sys_id>c3cfd9fe1b7365d08c5143f3cc4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>security_role_var</sys_name>
+        <sys_package display_value="AX Access Request" source="c53aae751bd1c1508c5143f3cc4bcb89">c53aae751bd1c1508c5143f3cc4bcb89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c3cfd9fe1b7365d08c5143f3cc4bcbc1</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 18:02:48</sys_updated_on>
+        <table/>
+        <ui_policy display_value="request type = new access">c4f027871b72f4108c5143f3cc4bcb72</ui_policy>
+        <variable>security_role_var</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

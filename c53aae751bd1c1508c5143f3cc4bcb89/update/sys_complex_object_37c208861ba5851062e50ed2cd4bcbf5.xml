@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD73c20886dca585102727365ed9c9c7f5</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>c53aae751bd1c1508c5143f3cc4bcb89</scope_name>
+        <serialized_content>{"FlowDesigner:FD73c20886dca585102727365ed9c9c7f5":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD73c20886dca585102727365ed9c9c7f5.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"b5a6a7a9-9b7e-4159-b928-9d458d7fc93d\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD73c20886dca585102727365ed9c9c7f5\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-02-09 14:37:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37c208861ba5851062e50ed2cd4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD73c20886dca585102727365ed9c9c7f5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AX Access Request" source="c53aae751bd1c1508c5143f3cc4bcb89">c53aae751bd1c1508c5143f3cc4bcb89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AX Access Request">c53aae751bd1c1508c5143f3cc4bcb89</sys_scope>
+        <sys_update_name>sys_complex_object_37c208861ba5851062e50ed2cd4bcbf5</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-02-09 14:37:22</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
